@@ -1,18 +1,18 @@
 # 👋 Hey, I’m Dustin Pilgrim  
 
-I’m a **Rust** and **systems programming** enthusiast, currently building tools like [**Stasis**](https://github.com/dustinpilgrim/stasis) — a modern Wayland idle manager — and exploring **init systems**, **TUI apps**, and **low-level Linux design**.
+I’m a **Rust** and **systems programming** enthusiast, currently building tools like [**Stasis**](https://github.com/saltnpepper97/stasis) — a modern Wayland idle manager — and exploring **init systems**, **TUI apps**, and **low-level Linux design**.
 
 ---
 
 ### ⚙️ Current Projects
-- 🦀 **[Stasis](https://github.com/dustinpilgrim/stasis)** – Lightweight, feature-rich idle manager for Wayland  
+- 🦀 **[Stasis](https://github.com/saltnpepper97/stasis)** – Lightweight, feature-rich idle manager for Wayland  
 - 📜 **Rune** – A configuration and scripting language with built-in regex support 
 
 ---
 
 ### 🧠 Skills & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,c,cpp,html,css,js,ts,bash,svelte,nodejs,npm,python,tauri,vite,java&perline=7" />
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,html,css,js,ts,bash,svelte,nodejs,npm,pnpm,python,tauri,vite,java&perline=7" />
 </p>
 
 ---
