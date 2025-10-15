@@ -6,7 +6,7 @@ I’m a **Rust** and **systems programming** enthusiast, currently building tool
 
 ### ⚙️ Current Projects
 - 🦀 **[Stasis](https://github.com/saltnpepper97/stasis)** – Lightweight, feature-rich idle manager for Wayland  
-- 📜 **Rune** – A configuration and scripting language with built-in regex support 
+- 📜 **[RUNE](https://github.com/saltnpepper97/rune-cfg** – A configuration and scripting language with built-in regex support 
 
 ---
 
