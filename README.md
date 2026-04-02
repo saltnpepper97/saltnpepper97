@@ -61,7 +61,7 @@ I'm diving deep into the lower layers of security — the kind that lives close 
 ### 💬 Reach Me
 
 <p align="left">
-  <a href="mailto:dustin.pilgrim1997@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:dustin.pilgrim1997@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
