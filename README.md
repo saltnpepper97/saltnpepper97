@@ -6,7 +6,7 @@
 
 ### ⚙️ What I'm Building
 
-- 🪟 **[Something's coming]** — a project that sits between your apps and your display server. watch this space.
+- 🪟 **[Halley](https://github.com/saltnpepper97/halley)** — a project that sits between your apps and your display server. watch this space.
 - 🦀 **[Stasis](https://github.com/saltnpepper97/stasis)** — lightweight, feature-rich idle manager for Wayland
 - 📜 **[RUNE](https://github.com/saltnpepper97/rune-cfg)** — configuration & scripting language with built-in regex support
 - 🪵 **[Eventline](https://github.com/saltnpepper97/eventline)** — structured logging & tracing for Rust applications
