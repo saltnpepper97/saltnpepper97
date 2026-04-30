@@ -4,12 +4,18 @@
 
 ---
 
+
 ### ⚙️ What I'm Building
 
 - 🪟 **[Halley](https://github.com/saltnpepper97/halley)** — spatial Wayland compositor built around infinite workspace navigation
 - 🦀 **[Stasis](https://github.com/saltnpepper97/stasis)** — lightweight, feature-rich idle manager for Wayland
 - 📜 **[RUNE](https://github.com/saltnpepper97/rune-cfg)** — configuration & scripting language with built-in regex support
 - 🪵 **[Eventline](https://github.com/saltnpepper97/eventline)** — structured logging & tracing for Rust applications
+
+---
+
+### 🎓 Education
+- **Dalhousie University** — Bachelor of Computer Science (Year 3 of 4, in progress)
 
 ---
 
