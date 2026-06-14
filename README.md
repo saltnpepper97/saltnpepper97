@@ -18,7 +18,7 @@ If we want better computing, we have to support the people building it before th
 
 ⚙️ What I'm Building
 
-* 🪟 "Halley" (https://github.com/saltnpepper97/halley) — spatial Wayland compositor built around infinite workspace navigation
+* 🪟 [Halley](https://github.com/saltnpepper97/halley) — spatial Wayland compositor built around infinite workspace navigation
 * 🦀 [Stasis](https://github.com/saltnpepper97/stasis) — lightweight, feature-rich idle manager for Wayland
 * 📜 [RUNE](https://github.com/saltnpepper97/rune-cfg) — configuration language for clean, expressive application config
 *  🪵 [Eventline](https://github.com/saltnpepper97/eventline) — structured execution journals and tracing tools for Rust applications
