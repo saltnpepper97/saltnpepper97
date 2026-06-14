@@ -1,6 +1,6 @@
 Dustin Pilgrim
 
-«Rust systems programmer. Building deep in the Linux stack — close to the metal, closer to the kernel.»
+Rust systems programmer. Building deep in the Linux stack — close to the metal, closer to the kernel.
 
 I build independent open-source systems projects around Wayland, Linux desktops, Rust tooling, configuration languages, and local-first developer workflows.
 
@@ -12,14 +12,16 @@ If we want better computing, we have to support the people building it before th
   <a href="https://github.com/sponsors/saltnpepper97">
     <img src="https://img.shields.io/badge/Sponsor-%241%2Fmonth%20helps-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor badge" />
   </a>
-</p>---
+</p>
+
+---
 
 ⚙️ What I'm Building
 
 * 🪟 "Halley" (https://github.com/saltnpepper97/halley) — spatial Wayland compositor built around infinite workspace navigation
-* 🦀 "Stasis" (https://github.com/saltnpepper97/stasis) — lightweight, feature-rich idle manager for Wayland
-* 📜 "RUNE" (https://github.com/saltnpepper97/rune-cfg) — configuration language for clean, expressive application config
-* 🪵 "Eventline" (https://github.com/saltnpepper97/eventline) — structured execution journals and tracing tools for Rust applications
+* 🦀 [Stasis](https://github.com/saltnpepper97/stasis) — lightweight, feature-rich idle manager for Wayland
+* 📜 [RUNE](https://github.com/saltnpepper97/rune-cfg) — configuration language for clean, expressive application config
+*  🪵 [Eventline](https://github.com/saltnpepper97/eventline) — structured execution journals and tracing tools for Rust applications
 * 👀 Coming soon — a local-first Linux tool for making the desktop feel a little more alive
 
 ---
@@ -47,7 +49,9 @@ If you use my work, believe in it, or want to see independent Linux desktop soft
   <a href="https://github.com/sponsors/saltnpepper97">
     <img src="https://img.shields.io/badge/GitHub%20Sponsors-Support%20my%20open%20source-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors badge" />
   </a>
-</p>---
+</p>
+
+---
 
 🎓 Education
 
