@@ -21,8 +21,8 @@ If we want better computing, we have to support the people building it before th
 * 🪟 [Halley](https://github.com/saltnpepper97/halley) — spatial Wayland compositor built around infinite workspace navigation
 * 🦀 [Stasis](https://github.com/saltnpepper97/stasis) — lightweight, feature-rich idle manager for Wayland
 * 📜 [RUNE](https://github.com/saltnpepper97/rune-cfg) — configuration language for clean, expressive application config
-*  🪵 [Eventline](https://github.com/saltnpepper97/eventline) — structured execution journals and tracing tools for Rust applications
-* 👀 Coming soon — a local-first Linux tool for making the desktop feel a little more alive
+* 🪵 [Eventline](https://github.com/saltnpepper97/eventline) — structured execution journals and tracing tools for Rust applications
+* 🤖 [BitBuddy](https://getbitbuddy.com/) — local-first desktop companion with memory, projects, mail, calendar, and safe autonomy
 
 ---
 
