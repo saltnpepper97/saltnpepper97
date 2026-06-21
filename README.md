@@ -1,4 +1,4 @@
-Dustin Pilgrim
+# Dustin Pilgrim
 
 Rust systems programmer. Building deep in the Linux stack — close to the metal, closer to the kernel.
 
