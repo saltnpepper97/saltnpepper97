@@ -22,7 +22,6 @@ If we want better computing, we have to support the people building it before th
 * 🦀 [Stasis](https://github.com/saltnpepper97/stasis) — lightweight, feature-rich idle manager for Wayland
 * 📜 [RUNE](https://github.com/saltnpepper97/rune-cfg) — configuration language for clean, expressive application config
 * 🪵 [Eventline](https://github.com/saltnpepper97/eventline) — structured execution journals and tracing tools for Rust applications
-* 🤖 [BitBuddy](https://getbitbuddy.com/) — local-first desktop companion with memory, projects, mail, calendar, and safe autonomy
 
 ---
 
