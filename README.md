@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=8EC07C&center=true&vCenter=true&width=600&lines=Rust+systems+programmer;Wayland+compositors+%26+Linux+desktops;Close+to+the+metal%2C+closer+to+the+kernel" alt="Typing animation" />
 </p>
 
-Rust systems programmer. Building deep in the Linux stack — close to the metal, closer to the kernel.
+Rust systems programmer. Building deep in the Linux stack; close to the metal, closer to the kernel.
 
 I build independent open-source systems projects around Wayland, Linux desktops, Rust tooling, configuration languages, and local-first developer workflows.
 
