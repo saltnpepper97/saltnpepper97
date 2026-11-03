@@ -30,7 +30,6 @@ If we want better computing, we have to support the people building it before th
 - 🦀 **[Stasis](https://github.com/saltnpepper97/stasis)** — lightweight, feature-rich idle manager for Wayland
 - 📜 **[RUNE](https://github.com/saltnpepper97/rune-cfg)** — configuration language for clean, expressive application config
 - 🪵 **[Eventline](https://github.com/saltnpepper97/eventline)** — an application flight recorder for Rust
-- 🤖 **[Hames](https://github.com/saltnpepper97/hames)** — self-correcting AI agent harness
 
 ### 🧰 Smaller Tools
 
@@ -41,7 +40,7 @@ If we want better computing, we have to support the people building it before th
 
 ## 💖 Sponsor This Work
 
-Halley, Stasis, RUNE, Eventline, Hames, and whatever comes next are built independently alongside school, research, and day-to-day Linux systems work.
+Halley, Stasis, RUNE, Eventline, and whatever comes next are built independently alongside school, research, and day-to-day Linux systems work.
 
 Sponsorship helps turn ambitious independent software from “cool side project” into something that can actually be maintained, polished, documented, and grown. It covers the boring-but-real parts of open source:
 
@@ -66,7 +65,6 @@ Even $1/month genuinely helps. It tells me people care about the work, and it ma
 - Wayland compositor internals & display server protocols
 - Advanced async Rust & low-level Linux design
 - Service management & systems architecture
-- Local-first AI tooling and desktop agents
 
 ### 🔐 Security
 
